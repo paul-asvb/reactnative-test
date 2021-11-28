@@ -1,5 +1,5 @@
 name: app build
-
+on: [push]
 jobs:
   test:
     name: Tests
